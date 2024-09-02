@@ -1,5 +1,5 @@
 # ArduinoModbusRTU
-Modbus RTU (serial port) library for Arduino
+Slave Modbus RTU (serial port) library for Arduino
 
 This library implements a complete Modbus RTU Slave on Arduino Serial port.
 Supported Modbus functions :
